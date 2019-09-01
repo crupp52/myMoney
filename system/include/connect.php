@@ -1,9 +1,9 @@
 <?php
   //éles
-  $servername = "mysql.hostinger.hu";
-  $username = "u462798691_money";
-  $password = "levente11";
-  $dbname = "u462798691_money";
+  $servername = "localhost";
+  $username = "root";
+  $password = "";
+  $dbname = "mymoney_db";
 
   //teszt
   /*$servername = "localhost";
